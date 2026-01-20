@@ -74,7 +74,7 @@ The purpose of the Sales Performance Dashboard is to present a clear overview of
 ---
 
 ## Dashboard Preview
-![Sales Dashboard Preview](dashboard-preview.png)
+![Sales Dashboard Preview](dashboard.PNG)
 
 ---
 
